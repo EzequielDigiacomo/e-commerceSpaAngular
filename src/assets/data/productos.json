@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "name" : "audifonos",
+        "description" : "Blanco",
+        "category" : ["tecnologia", "microfonos"],
+        "imageUrl" :[
+            "../../../assets/img/product/technology/1.jpg",
+            "../../../assets/img/product/technology/2.jpg",
+            "../../../assets/img/product/technology/3.jpg",
+            "../../../assets/img/product/technology/4.jpg"
+
+        ],
+        "precio_venta" : 225,
+        "precio_regular" : 345,
+        "create_date" : "2022-03-14ta6:51:07.214X",
+        "slug" : "tipo-audifonos"
+
+    },
+    {
+        "id":"2",
+        "name" : "microfono",
+        "description" : "azul",
+        "category" : ["tecnologia", "microfonos"],
+        "imageUrl" :[
+            "../../../assets/img/product/technology/1.jpg",
+            "../../../assets/img/product/technology/2.jpg",
+            "../../../assets/img/product/technology/3.jpg",
+            "../../../assets/img/product/technology/4.jpg"
+
+        ],
+        "precio_venta" : 150,
+        "precio_regular" : 330,
+        "create_date" : "2022-03-14ta6:51:07.214X",
+        "slug" : "tipo-microfono"
+
+    },
+    {
+        "id":"3",
+        "name" : "computadora",
+        "description" : "negra",
+        "category" : ["tecnologia", "computadoras"],
+        "imageUrl" :[
+            "../../../assets/img/product/technology/1.jpg",
+            "../../../assets/img/product/technology/2.jpg",
+            "../../../assets/img/product/technology/3.jpg",
+            "../../../assets/img/product/technology/4.jpg"
+
+        ],
+        "precio_venta" : 800,
+        "precio_regular" : 1000,
+        "create_date" : "2022-03-14ta6:51:07.214X",
+        "slug" : "tipo-computadora"
+
+    },
+    {
+        "id":"4",
+        "name" : "audifonos",
+        "description" : "rojo",
+        "category" : ["tecnologia", "microfonos"],
+        "imageUrl" :[
+            "../../../assets/img/product/technology/1.jpg",
+            "../../../assets/img/product/technology/2.jpg",
+            "../../../assets/img/product/technology/3.jpg",
+            "../../../assets/img/product/technology/4.jpg"
+
+        ],
+        "precio_venta" : 200,
+        "precio_regular" : 300,
+        "create_date" : "2022-03-14ta6:51:07.214X",
+        "slug" : "tipo-audifonos"
+
+    }
+]
