@@ -5,10 +5,10 @@
         "description" : "Blanco",
         "category" : ["tecnologia", "microfonos"],
         "imageUrl" :[
-            "../../../assets/img/product/technology/1.jpg",
-            "../../../assets/img/product/technology/2.jpg",
-            "../../../assets/img/product/technology/3.jpg",
-            "../../../assets/img/product/technology/4.jpg"
+            "../../../assets/img/products/technology/1.jpg",
+            "../../../assets/img/products/technology/2.jpg",
+            "../../../assets/img/products/technology/3.jpg",
+            "../../../assets/img/products/technology/4.jpg"
 
         ],
         "precio_venta" : 225,
@@ -23,10 +23,10 @@
         "description" : "azul",
         "category" : ["tecnologia", "microfonos"],
         "imageUrl" :[
-            "../../../assets/img/product/technology/1.jpg",
-            "../../../assets/img/product/technology/2.jpg",
-            "../../../assets/img/product/technology/3.jpg",
-            "../../../assets/img/product/technology/4.jpg"
+            "../../../assets/img/products/technology/2.jpg",
+            "../../../assets/img/products/technology/1.jpg",
+            "../../../assets/img/products/technology/3.jpg",
+            "../../../assets/img/products/technology/4.jpg"
 
         ],
         "precio_venta" : 150,
@@ -41,10 +41,10 @@
         "description" : "negra",
         "category" : ["tecnologia", "computadoras"],
         "imageUrl" :[
-            "../../../assets/img/product/technology/1.jpg",
-            "../../../assets/img/product/technology/2.jpg",
-            "../../../assets/img/product/technology/3.jpg",
-            "../../../assets/img/product/technology/4.jpg"
+            "../../../assets/img/products/technology/3.jpg",
+            "../../../assets/img/products/technology/1.jpg",
+            "../../../assets/img/products/technology/2.jpg",
+            "../../../assets/img/products/technology/4.jpg"
 
         ],
         "precio_venta" : 800,
@@ -59,16 +59,16 @@
         "description" : "rojo",
         "category" : ["tecnologia", "microfonos"],
         "imageUrl" :[
-            "../../../assets/img/product/technology/1.jpg",
-            "../../../assets/img/product/technology/2.jpg",
-            "../../../assets/img/product/technology/3.jpg",
-            "../../../assets/img/product/technology/4.jpg"
+            "../../../assets/img/products/technology/4.jpg",
+            "../../../assets/img/products/technology/1.jpg",
+            "../../../assets/img/products/technology/2.jpg",
+            "../../../assets/img/products/technology/3.jpg"
 
         ],
         "precio_venta" : 200,
         "precio_regular" : 300,
         "create_date" : "2022-03-14ta6:51:07.214X",
-        "slug" : "tipo-audifonos"
+        "slug" : "tipo-audifonos-rojos "
 
     }
 ]
